@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20231229-2153-Experimental"
+	Name="laptok"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/lib/ccache/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="laptok"
+	OSRelease="6.2.0-39-generic"
+	OSVersion="#40~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 16 10:53:04 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="23"
+	ModelID="104"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="7628"
+	TotalPhysicalMemory="15378"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2994.87"
+	>
+	<Testing>
+		<StartDateTime>Dec 29 22:53 CET</StartDateTime>
+		<StartTestTime>1703886782</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 29 22:53 CET</EndDateTime>
+		<EndTestTime>1703886782</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++ -g -rdynamic CMakeFiles/projekt_2.dir/main.cpp.o -o projekt_2 
